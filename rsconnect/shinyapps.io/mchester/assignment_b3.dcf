@@ -1,0 +1,13 @@
+name: assignment_b3
+title: assignment_b3
+username:
+account: mchester
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5220481
+bundleId: 5303111
+url: https://mchester.shinyapps.io/assignment_b3/
+when: 1638150423.63905
+lastSyncTime: 1638150423.63907
+asMultiple: FALSE
+asStatic: FALSE

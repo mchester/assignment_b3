@@ -6,7 +6,7 @@ This is the README.MD for app-mchester.
 ### Where can I download?
 
 You can download the app at this link:
-
+https://mchester.shinyapps.io/assignment_b3/
 
 ### Option A or B?
 
