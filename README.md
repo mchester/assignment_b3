@@ -1,7 +1,6 @@
 # assignment_b3
-Public repo for STAT 545B app
 
-This is the README.MD for app-mchester.
+This is the README.MD for STAT 545B assignment_b3 r shiny application.
 
 ### Where can I download?
 
