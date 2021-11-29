@@ -17,8 +17,8 @@ ui <- fluidPage(
   "This app helps you explore the datateachr (cancer_sample) 
      data set. Select a variable and visualize the difference between
      benign and malignant diagnoses. To find out if differences are
-     significant, click the ANOVA and regression tabs. Hover
-     the plots and their points to learn more.",
+     significant, click the ANOVA and regression tabs. Click on
+     the plots or their points to learn more.",
   
   tags$br(),
   tags$br(),
